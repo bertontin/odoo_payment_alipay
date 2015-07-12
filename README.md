@@ -6,7 +6,7 @@ Alipayescow (create_partner_trade_by_buyer) can be finished now, and it is all t
 # Can you contribute to it?
 Of course, any contribution is welcome.
 # How to use it?
-Firstly, backup your project;
-Secondly, copy payment_alipay to you addons directory;
-Thirdly, add alipay info to your payment addon according to files in payment directroy;
-Finally, install and enjoy it!
+1. Backup your project;
+2. Copy payment_alipay to you addons directory;
+3. Add alipay info to your payment addon according to files in payment directroy;
+4. Install and enjoy it!
